@@ -107,3 +107,7 @@ font-size:200%
 	grid-column-start:1;
 	grid-column-end: span 6;
 }
+.menu1span4 {
+	grid-column-start:2;
+	grid-column-end: span 4;
+	}
